@@ -97,7 +97,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 - **Chinmay Chaudhari**
 - Aspiring DevOps and Cloud Engineer
 - Email: chinmayssc321@gmail.com
-
-## Acknowledgments
-Special thanks to the open-source community for their contributions to Linux server tools and monitoring utilities.
 ```
